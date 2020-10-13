@@ -4,7 +4,7 @@
 [![report](https://goreportcard.com/badge/github.com/fluxcd/toolkit)](https://goreportcard.com/report/github.com/fluxcd/toolkit)
 [![license](https://img.shields.io/github/license/fluxcd/toolkit.svg)](https://github.com/fluxcd/toolkit/blob/main/LICENSE)
 [![release](https://img.shields.io/github/release/fluxcd/toolkit/all.svg)](https://github.com/fluxcd/toolkit/releases)
-![overview](docs/diagrams/gotk-feature.png)
+![overview](docs/diagrams/gitops-toolkit.png)
 
 The GitOps Toolkit is a set of composable APIs and specialized tools
 that can be used to build a Continuous Delivery platform on top of Kubernetes.
